@@ -12,8 +12,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
   - [Built with](#built-with)  
  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -101,10 +99,3 @@ During the development of this project, I found the following resources particul
 - [CSS Tricks](https://css-tricks.com/): A go-to resource for CSS-related tips, tricks, and solutions.
 - [Stack Overflow](https://stackoverflow.com/): The Stack Overflow community helped me troubleshoot specific issues and find solutions.
 
-
-
-## Author
-- Frontend Mentor - [@sohel08](https://www.frontendmentor.io/profile/sohel08)
-
-
-## Acknowledgments
