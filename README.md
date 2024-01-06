@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Github URL: [solution URL](https://github.com/mervegulyitmez/Multi-step-form)
-- Live Site URL: [live site URL](multi-step-form-odqx-pu5sbdm0q-mervegulyitmezs-projects.vercel.app)
+- Live Site URL: [live site URL](https://multi-step-form-odqx.vercel.app)
 
 ## My process
 
